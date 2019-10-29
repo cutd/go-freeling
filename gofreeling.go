@@ -1,9 +1,9 @@
 package main
 
 import (
-	. "github.com/advancedlogic/go-freeling/lib"
-	. "github.com/advancedlogic/go-freeling/net"
-	. "github.com/advancedlogic/go-freeling/terminal"
+	. "github.com/cutd/go-freeling/lib"
+	. "github.com/cutd/go-freeling/net"
+	. "github.com/cutd/go-freeling/terminal"
 )
 
 var logo = `

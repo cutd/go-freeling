@@ -1,0 +1,83 @@
+# github.com/PuerkitoBio/goquery v1.4.1
+github.com/PuerkitoBio/goquery
+# github.com/abiosoft/semaphore v0.0.0-20180811165425-cb737ff681bd
+github.com/abiosoft/semaphore
+# github.com/advancedlogic/go-freeling v0.0.0-20190816150524-d4c3d0731524
+github.com/advancedlogic/go-freeling/models
+# github.com/andybalholm/cascadia v1.0.0
+github.com/andybalholm/cascadia
+# github.com/araddon/dateparse v0.0.0-20180729174819-cfd92a431d0e
+github.com/araddon/dateparse
+# github.com/cheggaaa/pb v2.0.7+incompatible
+github.com/cheggaaa/pb
+# github.com/cutd/GoOse v0.0.0-20191028131041-654c0f2471fe
+github.com/cutd/GoOse
+# github.com/fatih/color v1.7.0
+github.com/fatih/color
+# github.com/fatih/set v0.2.1
+github.com/fatih/set
+# github.com/fluhus/gostuff v0.0.0-20181218190919-fc96623389f4
+github.com/fluhus/gostuff/nlp/wordnet
+# github.com/gigawattio/window v0.0.0-20180317192513-0f5467e35573
+github.com/gigawattio/window
+# github.com/go-resty/resty/v2 v2.0.0
+github.com/go-resty/resty/v2
+# github.com/gorilla/mux v1.7.3
+github.com/gorilla/mux
+# github.com/jaytaylor/html2text v0.0.0-20180606194806-57d518f124b0
+github.com/jaytaylor/html2text
+# github.com/kdar/factorlog v0.0.0-20140929220826-d5b6afb8b4fe
+github.com/kdar/factorlog
+# github.com/mattn/go-colorable v0.1.4
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.10
+github.com/mattn/go-isatty
+# github.com/mattn/go-runewidth v0.0.3
+github.com/mattn/go-runewidth
+# github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
+github.com/mgutz/ansi
+# github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
+github.com/nu7hatch/gouuid
+# github.com/olekukonko/tablewriter v0.0.0-20180506121414-d4647c9c7a84
+github.com/olekukonko/tablewriter
+# github.com/pelletier/go-toml v1.6.0
+github.com/pelletier/go-toml
+# github.com/petar/GoLLRB v0.0.0-20190514000832-33fb24c13b99
+github.com/petar/GoLLRB/llrb
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/pmylund/go-cache v2.1.0+incompatible
+github.com/pmylund/go-cache
+# github.com/satori/go.uuid v1.2.0
+github.com/satori/go.uuid
+# github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf
+github.com/ssor/bom
+# golang.org/x/net v0.0.0-20190628185345-da137c7871d7
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/html/charset
+golang.org/x/net/publicsuffix
+# golang.org/x/sys v0.0.0-20191008105621-543471e840be
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.0
+golang.org/x/text/transform
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/htmlindex
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/language
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/runes
+golang.org/x/text/internal/tag
+# gopkg.in/VividCortex/ewma.v1 v1.1.1
+gopkg.in/VividCortex/ewma.v1
+# gopkg.in/cheggaaa/pb.v2 v2.0.7
+gopkg.in/cheggaaa/pb.v2/termutil
+# gopkg.in/fatih/color.v1 v1.7.0
+gopkg.in/fatih/color.v1

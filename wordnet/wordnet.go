@@ -1,8 +1,8 @@
 package wordnet
 
 import (
-	. "github.com/advancedlogic/go-freeling/models"
-	. "github.com/advancedlogic/go-freeling/terminal"
+	. "github.com/cutd/go-freeling/models"
+	. "github.com/cutd/go-freeling/terminal"
 	. "github.com/fluhus/gostuff/nlp/wordnet"
 )
 
