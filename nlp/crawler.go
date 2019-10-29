@@ -1,7 +1,7 @@
 package nlp
 
 import (
-	goose "github.com/advancedlogic/GoOse"
+	goose "github.com/cutd/GoOse"
 )
 
 type Crawler struct {
