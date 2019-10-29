@@ -38,8 +38,6 @@ func (e *Engine) InitNLP() {
 	initialized := false
 	count := 80
 	bar := pb.StartNew(count)
-	bar.ShowPercent = true
-	bar.ShowCounters = false
 
 	inc := func() {
 		for i := 0; i < 10; i++ {
@@ -68,8 +66,8 @@ func (e *Engine) InitNLP() {
 	stop := time.Now().UnixNano()
 	delta := (stop - start) / (1000 * 1000)
 	initialized = true
-	bar.FinishPrint(fmt.Sprintf("Data loaded in %dms", delta))
-
+	bar.Finish()
+	fmt.Println(fmt.Sprintf("Data loaded in %dms", delta))
 	wn := wordnet.NewWordNet()
 	nlpEngine.WordNet = wn
 
